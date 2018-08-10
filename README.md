@@ -7,6 +7,12 @@ CSS stiles is written with mobile first approach which means that page firstly a
 - [Brad Frost - Mobile First Responsive Web Design](http://bradfrost.com/blog/web/mobile-first-responsive-web-design/)
 - [Box-Sizing: The Secret to Simple CSS Layouts](http://blog.teamtreehouse.com/box-sizing-secret-simple-css-layouts)
 
+![screenshot_1](/screenshots/screen1.png "Screenshot_1")
+
+![screenshot_2](/screenshots/screen2.png "Screenshot_2")
+
+<img src="/screenshots/screen3.png" alt="screenshot_3" title="Screenshot_3" width="400px">
+
 ## Source - [Treehouse](https://teamtreehouse.com/)
 
 You can find my full Treehouse workflow [here](https://github.com/Navalag/Treehouse-Workflow).
